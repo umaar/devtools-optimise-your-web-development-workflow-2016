@@ -5,7 +5,7 @@ A talk originally given at ffconf 2016
 
 ## Slides
 
-http://umaar.github.io/devtools-optimise-your-web-development-workflow-2016
+https://umaar.github.io/devtools-optimise-your-web-development-workflow-2016
 
 ## Video
 
